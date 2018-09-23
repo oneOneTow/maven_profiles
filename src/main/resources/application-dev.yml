@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/gradu-desgin
+    username: root
+    password: 207416
+    driver-class-name: com.mysql.jdbc.Driver
